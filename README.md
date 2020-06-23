@@ -4,3 +4,6 @@
 2.NBA data analyis
   data set is downloaded from url (present in notebook)
   
+3. Gender Classifier-
+  predicts gender using height , weight and shoe size of person.
+  (used decision tree-scikit learn)
